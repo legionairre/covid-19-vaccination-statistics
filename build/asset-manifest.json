@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid-19-vaccination-statistics/static/css/main.fe53b104.chunk.css",
+    "main.js": "/covid-19-vaccination-statistics/static/js/main.4249beb9.chunk.js",
+    "main.js.map": "/covid-19-vaccination-statistics/static/js/main.4249beb9.chunk.js.map",
+    "runtime-main.js": "/covid-19-vaccination-statistics/static/js/runtime-main.316c213d.js",
+    "runtime-main.js.map": "/covid-19-vaccination-statistics/static/js/runtime-main.316c213d.js.map",
+    "static/js/2.50a67610.chunk.js": "/covid-19-vaccination-statistics/static/js/2.50a67610.chunk.js",
+    "static/js/2.50a67610.chunk.js.map": "/covid-19-vaccination-statistics/static/js/2.50a67610.chunk.js.map",
+    "static/js/3.a3e49a3d.chunk.js": "/covid-19-vaccination-statistics/static/js/3.a3e49a3d.chunk.js",
+    "static/js/3.a3e49a3d.chunk.js.map": "/covid-19-vaccination-statistics/static/js/3.a3e49a3d.chunk.js.map",
+    "index.html": "/covid-19-vaccination-statistics/index.html",
+    "static/css/main.fe53b104.chunk.css.map": "/covid-19-vaccination-statistics/static/css/main.fe53b104.chunk.css.map",
+    "static/js/2.50a67610.chunk.js.LICENSE.txt": "/covid-19-vaccination-statistics/static/js/2.50a67610.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.316c213d.js",
+    "static/js/2.50a67610.chunk.js",
+    "static/css/main.fe53b104.chunk.css",
+    "static/js/main.4249beb9.chunk.js"
+  ]
+}
